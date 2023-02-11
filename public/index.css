@@ -1,0 +1,36 @@
+*
+{
+    background-color: rgb(205, 244, 244);
+}
+
+h2
+{
+ text-align: center;
+ justify-content: center;
+ font-family: 'Courier New', Courier, monospace;
+ align-items: center;
+ font-size:x-large;
+}
+img
+{
+    height: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center-btn #btn
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.dif
+{
+    align-items: center;
+    align-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
